@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fitbeautyglobal-tech.github.io/bizboost-ai-legal/sitemap.xml
