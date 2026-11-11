@@ -121,17 +121,6 @@
       justify-content: center;
       margin-bottom: 16px;
     }
-    @media (max-width: 640px) {
-      .container {
-        padding: 24px 18px;
-      }
-      h1 {
-        font-size: 26px;
-      }
-      h2 {
-        font-size: 18px;
-      }
-    }
   </style>
 </head>
 <body>
@@ -143,13 +132,9 @@
       <p class="effective-date">Last Updated / Effective Date: <strong>October 28, 2026</strong></p>
     </header>
 
-    <div class="todo-box">
-      <strong>Action Required Before Publishing:</strong> Replace <code>BizBoost AI</code> and <code>amiraistudiox@gmail.com</code> with your actual contact information.
-    </div>
-
     <h2>1. Introduction</h2>
     <p>
-      This Privacy Policy applies to the <strong>BizBoost AI</strong> mobile application ("Application", "App", "we", "us", or "our"), published by <strong>[INSERT DEVELOPER / COMPANY NAME]</strong> (contact: <strong>[INSERT SUPPORT EMAIL]</strong>).
+      This Privacy Policy applies to the <strong>BizBoost AI</strong> mobile application ("Application", "App", "we", "us", or "our"), published by <strong>BizBoost AI</strong> (contact: <strong><a href="mailto:amiraistudiox@gmail.com">amiraistudiox@gmail.com</a></strong>).
     </p>
     <p>
       BizBoost AI is an AI-powered marketing assistant designed to help small businesses, freelancers, online merchants, and creators draft promotional copy, social captions, product descriptions, and marketing calendars. We respect your privacy and are committed to protecting the personal and business information you share with us.
@@ -158,6 +143,7 @@
     <h2>2. What Information We Collect</h2>
     <p>We collect only the minimum information necessary to provide the application's core functionality:</p>
     <ul>
+      <li><strong>Demo Mode (Local-Only):</strong> If you use BizBoost AI in Demo Mode without creating an account, all operations, generated variations, and test data remain strictly on your local device. No personal details, account credentials, or marketing prompts are sent to our cloud database.</li>
       <li><strong>Account Credentials:</strong> When you register or sign in, we collect your email address and password. Passwords are cryptographically hashed and managed securely through our backend authentication provider (Supabase Auth). We never see or store plain-text passwords.</li>
       <li><strong>User Profile Data:</strong> Display name and business role (e.g., Freelancer, Agency Owner, Online Seller) stored in your user profile to personalize your experience.</li>
       <li><strong>Brand Profiles:</strong> Brand name, industry, target customer demographics, brand voice/tone, products/services descriptions, and website URL that you voluntarily provide to customize generated marketing content.</li>
@@ -166,7 +152,7 @@
     </ul>
 
     <div class="callout">
-      <strong>We Do Not Collect:</strong> BizBoost AI does NOT request or access GPS location, device contacts, camera hardware, microphones, photo libraries, device storage (no broad storage permissions), or biometric identifiers.
+      <strong>Zero Advertising or Tracking SDKs:</strong> BizBoost AI does NOT include third-party advertising SDKs (e.g., AdMob), cross-app tracking identifiers (no Advertising ID / AD_ID collected), or commercial analytics trackers. Furthermore, the app does NOT request or access GPS location, device contacts, camera hardware, microphones, photo libraries, device storage (no broad storage permissions), or biometric identifiers.
     </div>
 
     <h2>3. How We Use Your Information</h2>
@@ -214,7 +200,7 @@
     </p>
     <ul>
       <li><strong>In-App Account Deletion:</strong> You can permanently delete your account directly inside the app at any time by going to <strong>Settings & Account &gt; Delete My Account</strong>. Confirming deletion immediately purges your authentication record and permanently deletes all associated brand profiles, saved marketing items, and generation history.</li>
-      <li><strong>Web-Based Deletion Request:</strong> If you uninstalled the app or cannot log in, you can request account deletion by emailing <strong>[INSERT SUPPORT EMAIL]</strong> or visiting our <a href="delete-account.html">Account Deletion Instructions</a> page.</li>
+      <li><strong>Web-Based Deletion Request:</strong> If you uninstalled the app or cannot log in, you can request account deletion by emailing <strong><a href="mailto:amiraistudiox@gmail.com">amiraistudiox@gmail.com</a></strong> or visiting our <a href="delete-account.html">Account Deletion Instructions</a> page.</li>
     </ul>
 
     <h2>8. Children's Privacy</h2>
@@ -230,8 +216,8 @@
     <h2>10. Contact Us</h2>
     <p>If you have questions, feedback, or requests regarding this Privacy Policy or your data, please contact:</p>
     <ul>
-      <li><strong>Developer / Publisher:</strong> [INSERT DEVELOPER / COMPANY NAME]</li>
-      <li><strong>Email Support:</strong> <a href="mailto:[INSERT SUPPORT EMAIL]">[INSERT SUPPORT EMAIL]</a></li>
+      <li><strong>Developer / Publisher:</strong> BizBoost AI</li>
+      <li><strong>Email Support:</strong> <a href="mailto:amiraistudiox@gmail.com">amiraistudiox@gmail.com</a></li>
     </ul>
 
     <footer>
